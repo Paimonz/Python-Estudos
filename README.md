@@ -1,2 +1,2 @@
 # Python Estudos
- Códigos gerados com a finalidade de aprendizado
+ Códigos gerados com a finalidade de aprendizagem
