@@ -1,0 +1,23 @@
+import -> para inserir módulos
+ex: import bebida
+
+para importa uma bebida específica do módulo
+ex: from bebida import ('Ai coloca a bedida específica')
+
+math
+ceil -> faz um aredodamento para cima 
+floor-> arendodamento para baixo
+trunc-> elimina um número depois da vírgula
+pow->potência
+sqrt->raiz quadrada
+factorial -> calcula o fatorial
+
+ex:
+import math
+num = int(input('Digite um número:')
+raiz = math.sprt(num)
+print(f'A raiz de um número {num} é igual a: {math.cel(raiz)}')
+
+import random ->para gerar um número aleatório
+num = random.randint(1, 10) -> um nº inteiro de 1 a 10
+print(num)
