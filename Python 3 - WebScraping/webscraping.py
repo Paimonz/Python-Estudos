@@ -1,3 +1,8 @@
+'''Precisamos fazer um webscrap no site da investopedia pra alimentar nossa AI de conversação, precisamos pegar
+tudo que estiver no texto desse artigo via python beautifulsoup e salvar em um txt, serão 2 mil webscrap,
+então precisa ser feito de uma forma bem genérica, nós queremos apenas o core do texto do artigo, nada que vem 
+acima de key takeaway nem nada que vem abaixo de aritcle  source, tudo em plain text, nada de imagens, nem tabelas, 
+nem links nem vídeos.'''
 
 import re
 import requests
