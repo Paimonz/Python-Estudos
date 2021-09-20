@@ -16,4 +16,4 @@ for iten in range(0, len(produtos)):
     if iten % 2 == 0:
         print(f'{produtos[iten]:.<30}', end='')
     else:
-        print(f'{produtos[iten]:.>30}')
+        print(f'R$:{produtos[iten]:.>5}')
