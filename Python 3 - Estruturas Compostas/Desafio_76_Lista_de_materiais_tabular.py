@@ -2,12 +2,12 @@
  No final, mostre uma listagem de preços, organizando os dados em forma tabular.
                                                                                 Por Curso em Vídeo.'''
 
-produtos = ('lápis', 1.75,                      #aqui é criada uma tupla com os materiais escolar,
-            'caderno', 17.25,                   #seguida com seus respectivos preços.
-            'estojo', 8.89,
-            'mochila', 26.75,
-            'caneta', 3.25,
-            'borracha', 2.50)
+produtos = ('Lápis', 1.75,                      #aqui é criada uma tupla com os materiais escolar,
+            'Caderno', 17.25,                   #seguida com seus respectivos preços.
+            'Estojo', 8.89,
+            'Mochila', 26.75,
+            'Caneta', 3.25,
+            'Borracha', 2.50)
 
 print('\n')                                     #pula uma linha para deixar visualmente mais apresentável.
 print('-=-'*20)                                 #exibe uma linha com os símbolos "-=-", fins estéticos.
