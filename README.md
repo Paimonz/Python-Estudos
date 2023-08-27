@@ -1,5 +1,5 @@
 # Python Estudos
- **Códigos gerados com a finalidade de aprendizagem!**
+ --**Códigos gerados com a finalidade de aprendizagem!**--
 
  _Esse repositório foi criado  com a intenção de deixar todo o contéudo estudado em Python registrado, com comentários (até mesmo com o mais "trivial") para compreensão
  da linha de raciocínio, todo exercício terá seu enunciado e em seguida o nome da escola/curso que foi realizado o mesmo._
